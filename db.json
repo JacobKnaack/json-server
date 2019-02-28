@@ -1,0 +1,587 @@
+{
+  "athletes": [
+    {
+      "id": 1,
+      "fName": "Kelsey",
+      "lName": "Daniels",
+      "gender": "f",
+      "year": "SO",
+      "position": [
+        "Sprints"
+      ],
+      "events": [
+        2,
+        4,
+        5
+      ],
+      "meets": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "tbd": []
+    },
+    {
+      "id": 2,
+      "fName": "Jacob",
+      "lName": "Wachtendonk",
+      "gender": "m",
+      "year": "JR",
+      "position": [
+        "Throws"
+      ],
+      "events": [
+        13,
+        14,
+        15
+      ],
+      "meets": [
+        1,
+        2,
+        3,
+        6,
+        7
+      ],
+      "tbd": []
+    },
+    {
+      "id": 3,
+      "fName": "Kyle",
+      "lName": "Osaka",
+      "gender": "m",
+      "year": "SR",
+      "position": [
+        "Sprints"
+      ],
+      "events": [
+        8,
+        9
+      ],
+      "meets": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "tbd": []
+    },
+    {
+      "id": 4,
+      "fName": "Alex",
+      "lName": "Rogers",
+      "gender": "m",
+      "year": "FR",
+      "position": [
+        "Distance"
+      ],
+      "events": [
+        11,
+        12,
+        19
+      ],
+      "meets": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "tbd": []
+    },
+    {
+      "id": 5,
+      "fName": "Paul",
+      "lName": "Matters",
+      "gender": "m",
+      "year": "FR",
+      "position": [
+        "Sprints",
+        "Hurdles"
+      ],
+      "events": [
+        4,
+        17
+      ],
+      "meets": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "tbd": []
+    },
+    {
+      "id": 6,
+      "fName": "Oliver",
+      "lName": "Shoemaker",
+      "gender": "m",
+      "year": "JR",
+      "position": [
+        "Multi"
+      ],
+      "events": [
+        5,
+        15,
+        18,
+        20,
+        22
+      ],
+      "meets": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "tbd": []
+    },
+    {
+      "id": 7,
+      "fName": "Bryce",
+      "lName": "Nielson",
+      "gender": "m",
+      "year": "JR",
+      "position": [
+        "Mid-Distance"
+      ],
+      "events": [
+        6,
+        7
+      ],
+      "meets": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "tbd": []
+    }
+  ],
+  "meets": [
+    {
+      "id": 1,
+      "title": "Stanford Classic",
+      "location": {
+        "city": "Stanford",
+        "region": "CA"
+      },
+      "dates": [
+        "March 29",
+        "March 30"
+      ],
+      "year": 2019,
+      "events": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        22
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Stanford Invitational",
+      "location": {
+        "city": "Stanford",
+        "region": "CA"
+      },
+      "dates": [
+        "March 29",
+        "March 30"
+      ],
+      "year": 2019,
+      "events": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        22
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UW vs WSU Dual",
+      "location": {
+        "city": "Seattle",
+        "region": "WA"
+      },
+      "dates": [
+        "April 6, 2019"
+      ],
+      "year": 2019,
+      "events": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mt Sac Relays",
+      "location": {
+        "city": "Torrence",
+        "region": "CA"
+      },
+      "dates": [
+        "March 29",
+        "March 30"
+      ],
+      "year": 2019,
+      "events": [
+        2,
+        3,
+        4,
+        5,
+        17,
+        21
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Bryan Clay Invitational",
+      "location": {
+        "city": "Azusa",
+        "region": "CA"
+      },
+      "dates": [
+        "April 18, 2019",
+        "April 19, 2019"
+      ],
+      "year": 2019,
+      "events": [
+        20
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Cardinal Classic",
+      "location": {
+        "city": "Stanford",
+        "region": "CA"
+      },
+      "dates": [
+        "April 19",
+        "April 20"
+      ],
+      "year": 2019,
+      "events": [
+        3,
+        5,
+        6,
+        7,
+        11,
+        13,
+        14,
+        15,
+        17,
+        19,
+        21
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Beach Invitational",
+      "location": {
+        "city": "Azusa",
+        "region": "CA"
+      },
+      "dates": [
+        "April 19",
+        "April 29"
+      ],
+      "year": 2019,
+      "events": [
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "abbr": "4x400 A"
+    },
+    {
+      "id": 2,
+      "abbr": "4x400 B"
+    },
+    {
+      "id": 3,
+      "abbr": "4x100 A"
+    },
+    {
+      "id": 4,
+      "abbr": "4x100 alt"
+    },
+    {
+      "id": 5,
+      "abbr": "400m"
+    },
+    {
+      "id": 6,
+      "abbr": "800m"
+    },
+    {
+      "id": 7,
+      "abbr": "1600m"
+    },
+    {
+      "id": 8,
+      "abbr": "100m"
+    },
+    {
+      "id": 9,
+      "abbr": "200m"
+    },
+    {
+      "id": 10,
+      "abbr": "2000m"
+    },
+    {
+      "id": 11,
+      "abbr": "5000m"
+    },
+    {
+      "id": 12,
+      "abbr": "10000m"
+    },
+    {
+      "id": 13,
+      "abbr": "Discus Throw"
+    },
+    {
+      "id": 14,
+      "abbr": "Hammer Throw"
+    },
+    {
+      "id": 15,
+      "abbr": "Shot Put"
+    },
+    {
+      "id": 16,
+      "abbr": "Javelin Throw"
+    },
+    {
+      "id": 17,
+      "abbr": "110m Hurdles"
+    },
+    {
+      "id": 18,
+      "abbr": "Pole Vault"
+    },
+    {
+      "id": 19,
+      "abbr": "Steeplechase"
+    },
+    {
+      "id": 20,
+      "abbr": "Decathalon"
+    },
+    {
+      "id": 21,
+      "abbr": "Long Jump"
+    },
+    {
+      "id": 22,
+      "abbr": "High Jump"
+    }
+  ],
+  "performances": [
+    {
+      "performedById": 1,
+      "meetId": 1,
+      "eventId": 3,
+      "mark": "48.91",
+      "goal": "48.95"
+    },
+    {
+      "performedById": 1,
+      "meetId": 1,
+      "eventId": 1,
+      "mark": "3:52.13",
+      "goal": "3:53.00"
+    },
+    {
+      "performedById": 1,
+      "meetId": 2,
+      "eventId": 3,
+      "mark": "48.91",
+      "goal": "48.95"
+    },
+    {
+      "performedById": 1,
+      "meetId": 2,
+      "eventId": 1,
+      "mark": "3:52.13",
+      "goal": "3:53.00"
+    },
+    {
+      "performedById": 1,
+      "meetId": 3,
+      "eventId": 5,
+      "mark": null,
+      "goal": "54.00"
+    },
+    {
+      "performedById": 1,
+      "meetId": 4,
+      "eventId": 5,
+      "mark": null,
+      "goal": "54.00"
+    },
+    {
+      "performedById": 1,
+      "meetId": 6,
+      "eventId": 5,
+      "mark": null,
+      "goal": "54.00"
+    },
+    {
+      "performedById": 2,
+      "meetId": 1,
+      "eventId": 13,
+      "mark": "48.52m",
+      "goal": "51m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 1,
+      "eventId": 14,
+      "mark": "54.21m",
+      "goal": "57.5m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 1,
+      "eventId": 15,
+      "mark": "16.39m",
+      "goal": "17m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 2,
+      "eventId": 13,
+      "mark": "51.67m",
+      "goal": "51m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 2,
+      "eventId": 14,
+      "mark": "55.32m",
+      "goal": "57.5m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 2,
+      "eventId": 15,
+      "mark": "16.83m",
+      "goal": "17m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 3,
+      "eventId": 13,
+      "mark": null,
+      "goal": "51m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 3,
+      "eventId": 14,
+      "mark": null,
+      "goal": "57.5m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 3,
+      "eventId": 15,
+      "mark": null,
+      "goal": "17m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 6,
+      "eventId": 13,
+      "mark": null,
+      "goal": "51m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 6,
+      "eventId": 14,
+      "mark": null,
+      "goal": "57.5m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 6,
+      "eventId": 15,
+      "mark": null,
+      "goal": "17m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 7,
+      "eventId": 13,
+      "mark": null,
+      "goal": "51m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 7,
+      "eventId": 14,
+      "mark": null,
+      "goal": "57.5m"
+    },
+    {
+      "performedById": 2,
+      "meetId": 7,
+      "eventId": 15,
+      "mark": null,
+      "goal": "17m"
+    }
+  ]
+}

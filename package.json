@@ -1,0 +1,15 @@
+{
+  "name": "zelos-pro-mock-server",
+  "version": "1.0.0",
+  "description": "mock data server for layout testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3030",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Knaack",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
+}
