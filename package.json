@@ -4,7 +4,7 @@
   "description": "mock data server for layout testing",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3030",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jacob Knaack",
