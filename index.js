@@ -16,6 +16,7 @@ function verify(token) {
   return jwt.verify(token, process.env.API_SECRET, (err, decode) => decode !== undefined ? decode : err)
 }
 
+// server.use(isAuthorized);
 server.use(middlewares);
 server.post('/auth', jsonServer.bodyParser, (req, res) => {
   const {authString, user} = req.body;

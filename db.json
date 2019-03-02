@@ -20,8 +20,7 @@
         3,
         4,
         6
-      ],
-      "tbd": []
+      ]
     },
     {
       "id": 2,
@@ -43,8 +42,7 @@
         3,
         6,
         7
-      ],
-      "tbd": []
+      ]
     },
     {
       "id": 3,
@@ -65,8 +63,7 @@
         3,
         4,
         6
-      ],
-      "tbd": []
+      ]
     },
     {
       "id": 4,
@@ -87,8 +84,7 @@
         2,
         3,
         6
-      ],
-      "tbd": []
+      ]
     },
     {
       "id": 5,
@@ -109,8 +105,7 @@
         2,
         3,
         6
-      ],
-      "tbd": []
+      ]
     },
     {
       "id": 6,
@@ -136,8 +131,7 @@
         5,
         6,
         7
-      ],
-      "tbd": []
+      ]
     },
     {
       "id": 7,
@@ -157,8 +151,7 @@
         2,
         3,
         6
-      ],
-      "tbd": []
+      ]
     }
   ],
   "meets": [
@@ -174,24 +167,79 @@
         "March 30"
       ],
       "year": 2019,
-      "events": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        11,
-        12,
-        13,
-        14,
-        15,
-        17,
-        18,
-        19,
-        22
+      "schedule": [
+        {
+          "athleteId": 1,
+          "eventId": 1
+        },
+        {
+          "athleteId": 1,
+          "eventId": 3
+        },
+        {
+          "athleteId": 2,
+          "eventId": 13
+        },
+        {
+          "athleteId": 2,
+          "eventId": 14
+        },
+        {
+          "athleteId": 2,
+          "eventId": 15
+        },
+        {
+          "athleteId": 3,
+          "eventId": 8
+        },
+        {
+          "athleteId": 3,
+          "eventId": 9
+        },
+        {
+          "athleteId": 4,
+          "eventId": 11
+        },
+        {
+          "athleteId": 4,
+          "eventId": 12
+        },
+        {
+          "athleteId": 4,
+          "eventId": 19
+        },
+        {
+          "athleteId": 5,
+          "eventId": 17
+        },
+        {
+          "athleteId": 5,
+          "eventId": 3
+        },
+        {
+          "athleteId": 6,
+          "eventId": 5
+        },
+        {
+          "athleteId": 6,
+          "eventId": 22
+        },
+        {
+          "athleteId": 6,
+          "eventId": 18
+        },
+        {
+          "athleteId": 6,
+          "eventId": 15
+        },
+        {
+          "athleteId": 7,
+          "eventId": 6
+        },
+        {
+          "athleteId": 7,
+          "eventId": 7
+        }
       ]
     },
     {
@@ -206,23 +254,79 @@
         "March 30"
       ],
       "year": 2019,
-      "events": [
-        2,
-        3,
-        4,
-        5,
-        7,
-        8,
-        9,
-        11,
-        12,
-        13,
-        14,
-        15,
-        17,
-        18,
-        19,
-        22
+      "schedule": [
+        {
+          "athleteId": 1,
+          "eventId": 1
+        },
+        {
+          "athleteId": 1,
+          "eventId": 3
+        },
+        {
+          "athleteId": 2,
+          "eventId": 13
+        },
+        {
+          "athleteId": 2,
+          "eventId": 14
+        },
+        {
+          "athleteId": 2,
+          "eventId": 15
+        },
+        {
+          "athleteId": 3,
+          "eventId": 8
+        },
+        {
+          "athleteId": 3,
+          "eventId": 9
+        },
+        {
+          "athleteId": 4,
+          "eventId": 11
+        },
+        {
+          "athleteId": 4,
+          "eventId": 12
+        },
+        {
+          "athleteId": 4,
+          "eventId": 19
+        },
+        {
+          "athleteId": 5,
+          "eventId": 17
+        },
+        {
+          "athleteId": 5,
+          "eventId": 3
+        },
+        {
+          "athleteId": 6,
+          "eventId": 5
+        },
+        {
+          "athleteId": 6,
+          "eventId": 22
+        },
+        {
+          "athleteId": 6,
+          "eventId": 18
+        },
+        {
+          "athleteId": 6,
+          "eventId": 15
+        },
+        {
+          "athleteId": 7,
+          "eventId": 6
+        },
+        {
+          "athleteId": 7,
+          "eventId": 7
+        }
       ]
     },
     {
@@ -236,23 +340,67 @@
         "April 6, 2019"
       ],
       "year": 2019,
-      "events": [
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        11,
-        12,
-        13,
-        14,
-        15,
-        17,
-        19,
-        21
+      "schedule": [
+        {
+          "athleteId": 1,
+          "eventId": 1
+        },
+        {
+          "athleteId": 1,
+          "eventId": 3
+        },
+        {
+          "athleteId": 2,
+          "eventId": 14
+        },
+        {
+          "athleteId": 3,
+          "eventId": 8
+        },
+        {
+          "athleteId": 3,
+          "eventId": 9
+        },
+        {
+          "athleteId": 4,
+          "eventId": 11
+        },
+        {
+          "athleteId": 4,
+          "eventId": 12
+        },
+        {
+          "athleteId": 4,
+          "eventId": 19
+        },
+        {
+          "athleteId": 5,
+          "eventId": 17
+        },
+        {
+          "athleteId": 5,
+          "eventId": 3
+        },
+        {
+          "athleteId": 6,
+          "eventId": 17
+        },
+        {
+          "athleteId": 6,
+          "eventId": 21
+        },
+        {
+          "athleteId": 6,
+          "eventId": 5
+        },
+        {
+          "athleteId": 7,
+          "eventId": 6
+        },
+        {
+          "athleteId": 7,
+          "eventId": 7
+        }
       ]
     },
     {
@@ -267,13 +415,35 @@
         "March 30"
       ],
       "year": 2019,
-      "events": [
-        2,
-        3,
-        4,
-        5,
-        17,
-        21
+      "schedule": [
+        {
+          "athleteId": 1,
+          "eventId": 5
+        },
+        {
+          "athleteId": 3,
+          "eventId": 23
+        },
+        {
+          "athleteId": 5,
+          "eventId": 17
+        },
+        {
+          "athleteId": 5,
+          "eventId": 3
+        },
+        {
+          "athleteId": 6,
+          "eventId": 17
+        },
+        {
+          "athleteId": 6,
+          "eventId": 21
+        },
+        {
+          "athleteId": 6,
+          "eventId": 5
+        }
       ]
     },
     {
@@ -288,8 +458,11 @@
         "April 19, 2019"
       ],
       "year": 2019,
-      "events": [
-        20
+      "schedule": [
+        {
+          "athleteId": 6,
+          "eventId": 20
+        }
       ]
     },
     {
@@ -304,18 +477,63 @@
         "April 20"
       ],
       "year": 2019,
-      "events": [
-        3,
-        5,
-        6,
-        7,
-        11,
-        13,
-        14,
-        15,
-        17,
-        19,
-        21
+      "schedule": [
+        {
+          "athleteId": 1,
+          "eventId": 5
+        },
+        {
+          "athleteId": 2,
+          "eventId": 13
+        },
+        {
+          "athleteId": 2,
+          "eventId": 14
+        },
+        {
+          "athleteId": 2,
+          "eventId": 15
+        },
+        {
+          "athleteId": 3,
+          "eventId": 23
+        },
+        {
+          "athleteId": 4,
+          "eventId": 11
+        },
+        {
+          "athleteId": 4,
+          "eventId": 19
+        },
+        {
+          "athleteId": 5,
+          "eventId": 17
+        },
+        {
+          "athleteId": 5,
+          "eventId": 3
+        },
+        {
+          "athleteId": 6,
+          "eventId": 17
+        },
+        {
+          "athleteId": 6,
+          "eventId": 21
+        },
+        {
+          "athleteId": 6,
+          "eventId": 5
+        },
+        {
+          "athleteId": 7,
+          "eventId": 6
+        },
+        {
+          "athleteId": 7,
+          "eventId": 7
+        }
       ]
     },
     {
@@ -330,102 +548,149 @@
         "April 29"
       ],
       "year": 2019,
-      "events": [
-        13,
-        14,
-        15,
-        16
+      "schedule": [
+        {
+          "athleteId": 2,
+          "eventId": 13
+        },
+        {
+          "athleteId": 2,
+          "eventId": 14
+        },
+        {
+          "athleteId": 2,
+          "eventId": 15
+        },
+        {
+          "athleteId": 6,
+          "eventId": 15
+        },
+        {
+          "athleteId": 6,
+          "eventId": 14
+        },
+        {
+          "athleteId": 6,
+          "eventId": 13
+        }
       ]
     }
   ],
   "events": [
     {
       "id": 1,
-      "abbr": "4x400 A"
+      "abbr": "4x400 A",
+      "name": "4x400 Relay A"
     },
     {
       "id": 2,
-      "abbr": "4x400 B"
+      "abbr": "4x400 B",
+      "name": "4x400 Relay B"
     },
     {
       "id": 3,
-      "abbr": "4x100 A"
+      "abbr": "4x100 A",
+      "name": "4x100 Relay A"
     },
     {
       "id": 4,
-      "abbr": "4x100 alt"
+      "abbr": "4x100 alt",
+      "name": "4x100 Relay alt"
     },
     {
       "id": 5,
-      "abbr": "400m"
+      "abbr": "400m",
+      "name": "400m"
     },
     {
       "id": 6,
-      "abbr": "800m"
+      "abbr": "800m",
+      "name": "800m"
     },
     {
       "id": 7,
-      "abbr": "1600m"
+      "abbr": "1600m",
+      "name": "1600m"
     },
     {
       "id": 8,
-      "abbr": "100m"
+      "abbr": "100m",
+      "name": "100m"
     },
     {
       "id": 9,
-      "abbr": "200m"
+      "abbr": "200m",
+      "name": "200m"
     },
     {
       "id": 10,
-      "abbr": "2000m"
+      "abbr": "2K",
+      "name": "2000m"
     },
     {
       "id": 11,
-      "abbr": "5000m"
+      "abbr": "5K",
+      "name": "5000m"
     },
     {
       "id": 12,
-      "abbr": "10000m"
+      "abbr": "10K",
+      "name": "10000m"
     },
     {
       "id": 13,
-      "abbr": "Discus Throw"
+      "abbr": "DT",
+      "name": "Discus Throw"
     },
     {
       "id": 14,
-      "abbr": "Hammer Throw"
+      "abbr": "HT",
+      "name": "Hammer Throw"
     },
     {
       "id": 15,
-      "abbr": "Shot Put"
+      "abbr": "SP",
+      "name": "Shot Put"
     },
     {
       "id": 16,
-      "abbr": "Javelin Throw"
+      "abbr": "JT",
+      "name": "Javelin Throw"
     },
     {
       "id": 17,
-      "abbr": "110m Hurdles"
+      "abbr": "110m H",
+      "name": "110m Hurdles"
     },
     {
       "id": 18,
-      "abbr": "Pole Vault"
+      "abbr": "PV",
+      "name": "Pole Vault"
     },
     {
       "id": 19,
-      "abbr": "Steeplechase"
+      "abbr": "Steeple",
+      "name": "Steeplechase"
     },
     {
       "id": 20,
-      "abbr": "Decathalon"
+      "abbr": "Decathalon",
+      "name": "Decathalon"
     },
     {
       "id": 21,
-      "abbr": "Long Jump"
+      "abbr": "LJ",
+      "name": "Long Jump"
     },
     {
       "id": 22,
-      "abbr": "High Jump"
+      "abbr": "HJ",
+      "name": "High Jump"
+    },
+    {
+      "id": 23,
+      "abbr": "TBD",
+      "name": "To Be Determined"
     }
   ],
   "performances": [
