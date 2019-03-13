@@ -4,7 +4,8 @@
   "description": "mock data server for layout testing",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --ignore db.json index.js",
+    "start": "node index.js",
+    "dev": "nodemon --ignore db.json index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jacob Knaack",
