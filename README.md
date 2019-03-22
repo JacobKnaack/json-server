@@ -2,7 +2,7 @@
 simple http server using json-server for mock data projects
 
 ## Getting Started
-1) `git clone`
+1) `git clone https://github.com/JacobKnaack/json-server.git` or fork repo
 2) `npm install`
 3) Create a file at the root of your project called `.env`
 4) Add Some JSON data to your `db.json`
