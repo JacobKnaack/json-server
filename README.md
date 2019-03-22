@@ -14,6 +14,13 @@ $ npm run auth:init
 ```bash
 $ npm run create:user YOUR_USER_NAME YOUR_AUTH_STRING
 ```
+> If you receive the following error from bcrypt: 
+> `dyld: lazy symbol binding failed: Symbol not found:` 
+> try running the following command from npm:
+> ```bash
+> $ npm rebuild bcrypt --build-from-source
+> ```
+
 7) Start your server with nodemon: 
 ```bash
 $ npm run json:server
