@@ -16,15 +16,17 @@ function verify(token) {
   return jwt.verify(token, process.env.API_SECRET, (err, decode) => decode !== undefined ? decode : err)
 }
 
-// server.use(isAuthorized);
 server.use(middlewares);
 server.post('/auth', jsonServer.bodyParser, (req, res) => {
-  const {authString, user} = req.body;
+  const { authString, user } = req.body;
   let hash;
-  if (user == 'jacob') hash = process.env.JACOB_AUTH;
-  if (user == 'chris') hash = process.env.CHRIS_AUTH;
+  for (const v in process.env) {
+    if (`${user.toUpperCase()}_AUTH` === v) {
+      hash = process.env[`${user.toUpperCase()}_AUTH`];
+    }
+  }
 
-  bcrypt.compare(`${authString}:${process.env.API_SECRET}`, hash, (err,  isAuthorized) => {
+  bcrypt.compare(`${authString}:${process.env.API_SECRET}`, hash, (err, isAuthorized) => {
     if (!isAuthorized) {
       const status = 401;
       const message = "Incorrect Auth String";
